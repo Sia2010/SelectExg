@@ -1,0 +1,12 @@
+Date: 2021-12-31
+Currency Code: USD
+Exchange Rate: 636.99
+Date: 2021-12-31
+Currency Code: HKD
+Exchange Rate: 81.65
+Date: 2021-12-30
+Currency Code: HKD
+Exchange Rate: 81.86
+Date: 2021-12-30
+Currency Code: HKD
+Exchange Rate: 81.86
